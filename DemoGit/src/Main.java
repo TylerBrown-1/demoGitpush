@@ -5,7 +5,7 @@ public class Main {
         String iThinkCodingIs = " Great ! ";
         Boolean doYouGuysLikeItSoFaR = true;
         int secondAttempt = 2;
-        double myAge = 2.2;
+
         // this is a comment
         // New staging commit and ready to push GITHUB online
 
