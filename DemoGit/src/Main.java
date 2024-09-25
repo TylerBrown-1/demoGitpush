@@ -3,6 +3,8 @@ public class Main {
         System.out.println("Hello world!");
 
         String iThinkCodingIs = " Great ! ";
+        Boolean doYouGuysLikeItSoFaR = true;
+        int secondAttempt = 2;
 
 
     }
